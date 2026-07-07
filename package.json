@@ -2,7 +2,7 @@
   "name": "hide-ai-files",
   "displayName": "Hide AI Files",
   "description": "One status bar button to instantly hide or show all AI-specific files and folders (Cursor, Claude, Copilot, Windsurf, Trellis, and more) across your projects.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "batyan-soft",
   "license": "MIT",
   "icon": "images/icon.png",

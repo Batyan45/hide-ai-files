@@ -2,6 +2,11 @@
 
 All notable changes to the "Hide AI Files" extension are documented in this file.
 
+## [1.0.0] - 2026-07-07
+
+### Updated
+- Updated icon.
+
 ## [0.1.0] - 2026-06-14
 
 ### Added
